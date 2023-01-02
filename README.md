@@ -15,9 +15,9 @@ event_data/2018-11-09-events.csv
 ## Introductions
 
 The Sparkigy music app company request help with to analyse the the trend of users on their app. Since the consumer increase in listening to their 
-favorite songs and adability to the music app. They want a data engineer to extract the uses information stored on the csv_file format on the user 
+favorite songs and adapt to the music app. They want a data engineer to extract the uses information stored on the csv_file format on the user 
 activity. Thus the number of users are also incread since the last time when useer information were stored on PostgreSQL database. Now the data engineer
-will apply Apachi Cassandra to retrieve data on the csv_file format. This will help sparkify analyst to employ query of the set data for the desire
+will apply Apachi Cassandra to retrieve data on the csv_file format to provide consisten and durability. This will help sparkify analyst to employ query of the set data for the desire
 output to meet their business objectives. 
 
 
