@@ -37,9 +37,7 @@ Test by running the proper select statements with the correct WHERE clause
 
 ## Files & Questions to be worked with are as follows
 
-The image below is a screenshot of what the denormalized data should appear like in the <font color=red>**event_datafile_new.csv**</font> after the code above is run:<br>
-
-<img src="images/image_event_datafile_new.jpg">
+![image](https://user-images.githubusercontent.com/103359089/210189861-1a47567b-7754-4fc1-b15a-629e2a9cf0e9.png)
 
 - Give me the artist, song title and song's length in the music app history that was heard during sessionId = 338, and itemInSession = 4
 
