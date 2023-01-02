@@ -32,7 +32,7 @@ thus they want hire a data engineer to create an Apache Cassandra database which
 
 - Load the data with INSERT statement for each of the tables
 
-Include IF NOT EXISTS clauses in your CREATE statements to create tables only if the tables do not already exist. Also include DROP TABLE statement for each table, this way you can run drop and create tables whenever you want to reset your database and test your ETL pipeline
+Include IF NOT EXISTS clauses in the CREATE statements to create tables only if the tables do not already exist. Also include DROP TABLE statement for each table, this way you can run drop and create tables whenever you want to reset your database and test your ETL pipeline
 Test by running the proper select statements with the correct WHERE clause
 
 ## Files & Questions to be worked with are as follows
