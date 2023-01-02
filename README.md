@@ -37,13 +37,13 @@ Test by running the proper select statements with the correct WHERE clause
 
 ## Files & Questions to be worked with are as follows
 
-![Screen Shot 2023-01-02 at 2 24 56 PM](https://user-images.githubusercontent.com/103359089/210189622-7104a043-66e6-46e4-b365-e96cfcddf4aa.png)
+![image](https://user-images.githubusercontent.com/103359089/210189758-29b7dde1-43b4-4f38-ba9f-47f6a41c9321.png)
 
-Give me the artist, song title and song's length in the music app history that was heard during sessionId = 338, and itemInSession = 4
+- Give me the artist, song title and song's length in the music app history that was heard during sessionId = 338, and itemInSession = 4
 
-Give me only the following: name of artist, song (sorted by itemInSession) and user (first and last name) for userid = 10, sessionid = 182
+- Give me only the following: name of artist, song (sorted by itemInSession) and user (first and last name) for userid = 10, sessionid = 182
 
-Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'
+- Give me every user name (first and last) in my music app history who listened to the song 'All Hands Against His Own'
 
 
 
